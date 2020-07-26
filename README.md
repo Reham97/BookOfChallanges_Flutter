@@ -1,16 +1,39 @@
-# challenges_web
+# challenges using flutter mobile / web
 
-A new Flutter project.
+implement challanges in Demo/Book of Programming Challenges.pdf using Flutter,
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+get all dependencies
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+pub get
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Demo
+<img src="Demo/pic1.png" width="350" height="400">
+<img src="Demo/pic2.png" width="350" height="400">
+<img src="Demo/pic3.png" width="500" height="400">
+<img src="Demo/pic4.png" width="500" height="400">
+<img src="Demo/pic5.png" width="500" height="400">
+<img src="Demo/pic6.png" width="350" height="400">
+<img src="Demo/pic7.png" width="350" height="400">
+<img src="Demo/pic8.png" width="350" height="400">
+<img src="Demo/pic9.png" width="350" height="400">
+<img src="Demo/pic10.png" width="350" height="400">
+<img src="Demo/pic11.png" width="350" height="400">
+<img src="Demo/pic12.png" width="350" height="400">
+<img src="Demo/pic13.png" width="350" height="400">
+<img src="Demo/pic15.png" width="500" height="400">
+<img src="Demo/pic16.png" width="500" height="350">
+<img src="Demo/pic17.png" width="500" height="350">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="Demo/pic18.png" width="500" height="400">
+<img src="Demo/pic19.png" width="500" height="400">
+<img src="Demo/pic20.png" width="500" height="400">
+<img src="Demo/pic21.png" width="500" height="400">
+
+<img src="Demo/pic22.png" width="500" height="400">
+<img src="Demo/pic23.png" width="500" height="400">
+<img src="Demo/pic25.png" width="500" height="400">
+<img src="Demo/pic24.png" width="500" height="400">
