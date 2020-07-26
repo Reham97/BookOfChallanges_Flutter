@@ -1,6 +1,6 @@
 # challenges using flutter mobile / web
 
-implement challanges in Demo/Book of Programming Challenges.pdf using Flutter,
+implement some challanges using Flutter, you can find the pdf in Demo folder
 
 ## Installation
 
