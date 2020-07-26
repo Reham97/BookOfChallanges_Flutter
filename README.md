@@ -11,6 +11,15 @@ pub get
 ```
 
 ## Demo
+
+### APK Link
+https://drive.google.com/file/d/1gYMHhNilIHT4kjFOLtAN9DYE3I3izqMA/view?usp=sharing
+
+### Hosting URL
+##### Google Chrome is recommended 
+https://flutter-web-challenges.web.app
+
+### Screenshots
 <img src="Demo/pic1.png" width="350" height="400">
 <img src="Demo/pic2.png" width="350" height="400">
 <img src="Demo/pic3.png" width="500" height="400">
